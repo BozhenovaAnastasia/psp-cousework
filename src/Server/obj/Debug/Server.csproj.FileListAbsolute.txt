@@ -1,0 +1,51 @@
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Debug\Server.exe.config
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Debug\Server.exe
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Debug\Server.pdb
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Debug\Common.dll
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Debug\Common.pdb
+C:\Users\Artyom\Desktop\Solver\src\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Artyom\Desktop\Solver\src\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artyom\Desktop\Solver\src\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Artyom\Desktop\Solver\src\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Artyom\Desktop\Solver\src\Server\obj\Debug\Server.exe
+C:\Users\Artyom\Desktop\Solver\src\Server\obj\Debug\Server.pdb
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Debug\Server.exe.config
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Debug\Server.exe
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Debug\Server.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\obj\Debug\Server.exe
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\obj\Debug\Server.pdb
+C:\Users\User\Desktop\Solver\src\Server\bin\Debug\Server.exe.config
+C:\Users\User\Desktop\Solver\src\Server\bin\Debug\Server.exe
+C:\Users\User\Desktop\Solver\src\Server\bin\Debug\Server.pdb
+C:\Users\User\Desktop\Solver\src\Server\bin\Debug\Common.dll
+C:\Users\User\Desktop\Solver\src\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Solver\src\Server\bin\Debug\Common.pdb
+C:\Users\User\Desktop\Solver\src\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Solver\src\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Solver\src\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Solver\src\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Solver\src\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\User\Desktop\Solver\src\Server\obj\Debug\Server.exe
+C:\Users\User\Desktop\Solver\src\Server\obj\Debug\Server.pdb
+C:\Users\Артем\Desktop\Solver\src\Server\bin\Debug\Server.exe.config
+C:\Users\Артем\Desktop\Solver\src\Server\bin\Debug\Server.exe
+C:\Users\Артем\Desktop\Solver\src\Server\bin\Debug\Server.pdb
+C:\Users\Артем\Desktop\Solver\src\Server\bin\Debug\Common.dll
+C:\Users\Артем\Desktop\Solver\src\Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Артем\Desktop\Solver\src\Server\bin\Debug\Common.pdb
+C:\Users\Артем\Desktop\Solver\src\Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Артем\Desktop\Solver\src\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\Solver\src\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Solver\src\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Артем\Desktop\Solver\src\Server\obj\Debug\Server.exe
+C:\Users\Артем\Desktop\Solver\src\Server\obj\Debug\Server.pdb

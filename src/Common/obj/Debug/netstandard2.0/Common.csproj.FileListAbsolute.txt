@@ -1,0 +1,40 @@
+C:\Users\Artyom\Desktop\Solver\src\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\Artyom\Desktop\Solver\src\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Artyom\Desktop\Solver\src\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Debug\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\User\Desktop\Solver\src\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\User\Desktop\Solver\src\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\User\Desktop\Solver\src\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\User\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\User\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\User\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.pdb
+C:\Users\Артем\Desktop\Solver\src\Common\bin\Debug\netstandard2.0\Common.deps.json
+C:\Users\Артем\Desktop\Solver\src\Common\bin\Debug\netstandard2.0\Common.dll
+C:\Users\Артем\Desktop\Solver\src\Common\bin\Debug\netstandard2.0\Common.pdb
+C:\Users\Артем\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артем\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Артем\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Артем\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.dll
+C:\Users\Артем\Desktop\Solver\src\Common\obj\Debug\netstandard2.0\Common.pdb

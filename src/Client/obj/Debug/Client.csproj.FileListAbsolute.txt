@@ -1,0 +1,83 @@
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\Client.exe.config
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\Client.exe
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\Client.pdb
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\Common.dll
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\Common.pdb
+C:\Users\Artyom\Desktop\Solver\src\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Artyom\Desktop\Solver\src\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artyom\Desktop\Solver\src\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Artyom\Desktop\Solver\src\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Artyom\Desktop\Solver\src\Client\obj\Debug\Client.exe
+C:\Users\Artyom\Desktop\Solver\src\Client\obj\Debug\Client.pdb
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\System.Security.Permissions.dll
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\System.Security.Permissions.xml
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\Client.exe
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\Client.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\System.Security.Permissions.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\obj\Debug\Client.exe
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\obj\Debug\Client.pdb
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\Client.exe.config
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\Client.exe
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\Client.pdb
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\Common.dll
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\System.Security.AccessControl.dll
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\System.Security.Permissions.dll
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\Common.pdb
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\System.Security.AccessControl.xml
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\System.Security.Permissions.xml
+C:\Users\User\Desktop\Solver\src\Client\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\User\Desktop\Solver\src\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Solver\src\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Solver\src\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Solver\src\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\User\Desktop\Solver\src\Client\obj\Debug\Client.exe
+C:\Users\User\Desktop\Solver\src\Client\obj\Debug\Client.pdb
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\Client.exe.config
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\Client.exe
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\Client.pdb
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\Common.dll
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\System.Security.Permissions.dll
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\Common.pdb
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\System.Security.Permissions.xml
+C:\Users\Артем\Desktop\Solver\src\Client\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Артем\Desktop\Solver\src\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\Solver\src\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Solver\src\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Артем\Desktop\Solver\src\Client\obj\Debug\Client.exe
+C:\Users\Артем\Desktop\Solver\src\Client\obj\Debug\Client.pdb

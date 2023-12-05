@@ -1,0 +1,63 @@
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\Client.exe.config
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\Client.exe
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\Client.pdb
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\Common.dll
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\Newtonsoft.Json.dll
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\System.Security.AccessControl.dll
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\System.Security.Permissions.dll
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\Common.pdb
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\Newtonsoft.Json.xml
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\System.Security.AccessControl.xml
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\System.Security.Permissions.xml
+C:\Users\Artyom\Desktop\Solver\src\Client\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\Artyom\Desktop\Solver\src\Client\obj\Release\Client.csproj.AssemblyReference.cache
+C:\Users\Artyom\Desktop\Solver\src\Client\obj\Release\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artyom\Desktop\Solver\src\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\Artyom\Desktop\Solver\src\Client\obj\Release\Client.csproj.CopyComplete
+C:\Users\Artyom\Desktop\Solver\src\Client\obj\Release\Client.exe
+C:\Users\Artyom\Desktop\Solver\src\Client\obj\Release\Client.pdb
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\Client.exe.config
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\Client.exe
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\Client.pdb
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\Common.dll
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\Newtonsoft.Json.dll
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\System.Security.AccessControl.dll
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\System.Security.Permissions.dll
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\Common.pdb
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\Newtonsoft.Json.xml
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\System.Security.AccessControl.xml
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\System.Security.Permissions.xml
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\obj\Release\Client.csproj.AssemblyReference.cache
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\obj\Release\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\obj\Release\Client.csproj.CopyComplete
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\obj\Release\Client.exe
+C:\Users\Razer\Downloads\Solver\Solver\src\Client\obj\Release\Client.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\Client.exe.config
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\Client.exe
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\Client.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\Common.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\System.Security.AccessControl.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\System.Security.Permissions.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\System.Security.Principal.Windows.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\Common.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\System.Configuration.ConfigurationManager.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\System.Security.AccessControl.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\System.Security.Permissions.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\bin\Release\System.Security.Principal.Windows.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\obj\Release\Client.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\obj\Release\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\obj\Release\Client.csproj.CopyComplete
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\obj\Release\Client.exe
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Client\obj\Release\Client.pdb

@@ -1,0 +1,30 @@
+C:\Users\Artyom\Desktop\Solver\src\Common\bin\Release\netstandard2.0\Common.deps.json
+C:\Users\Artyom\Desktop\Solver\src\Common\bin\Release\netstandard2.0\Common.dll
+C:\Users\Artyom\Desktop\Solver\src\Common\bin\Release\netstandard2.0\Common.pdb
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Release\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Release\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Release\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Release\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Release\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Release\netstandard2.0\Common.dll
+C:\Users\Artyom\Desktop\Solver\src\Common\obj\Release\netstandard2.0\Common.pdb
+C:\Users\Razer\Downloads\Solver\Solver\src\Common\bin\Release\netstandard2.0\Common.deps.json
+C:\Users\Razer\Downloads\Solver\Solver\src\Common\bin\Release\netstandard2.0\Common.dll
+C:\Users\Razer\Downloads\Solver\Solver\src\Common\bin\Release\netstandard2.0\Common.pdb
+C:\Users\Razer\Downloads\Solver\Solver\src\Common\obj\Release\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\Razer\Downloads\Solver\Solver\src\Common\obj\Release\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Razer\Downloads\Solver\Solver\src\Common\obj\Release\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Razer\Downloads\Solver\Solver\src\Common\obj\Release\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Razer\Downloads\Solver\Solver\src\Common\obj\Release\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Razer\Downloads\Solver\Solver\src\Common\obj\Release\netstandard2.0\Common.dll
+C:\Users\Razer\Downloads\Solver\Solver\src\Common\obj\Release\netstandard2.0\Common.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\bin\Release\netstandard2.0\Common.deps.json
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\bin\Release\netstandard2.0\Common.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\bin\Release\netstandard2.0\Common.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Release\netstandard2.0\Common.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Release\netstandard2.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Release\netstandard2.0\Common.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Release\netstandard2.0\Common.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Release\netstandard2.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Release\netstandard2.0\Common.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Common\obj\Release\netstandard2.0\Common.pdb

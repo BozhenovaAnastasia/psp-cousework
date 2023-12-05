@@ -1,0 +1,39 @@
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Release\Server.exe.config
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Release\Server.exe
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Release\Server.pdb
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Release\Common.dll
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Release\Newtonsoft.Json.dll
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Release\Common.pdb
+C:\Users\Artyom\Desktop\Solver\src\Server\bin\Release\Newtonsoft.Json.xml
+C:\Users\Artyom\Desktop\Solver\src\Server\obj\Release\Server.csproj.AssemblyReference.cache
+C:\Users\Artyom\Desktop\Solver\src\Server\obj\Release\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artyom\Desktop\Solver\src\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\Artyom\Desktop\Solver\src\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\Artyom\Desktop\Solver\src\Server\obj\Release\Server.exe
+C:\Users\Artyom\Desktop\Solver\src\Server\obj\Release\Server.pdb
+C:\Users\Razer\Downloads\Solver\Solver\src\Server\bin\Release\Server.exe.config
+C:\Users\Razer\Downloads\Solver\Solver\src\Server\bin\Release\Server.exe
+C:\Users\Razer\Downloads\Solver\Solver\src\Server\bin\Release\Server.pdb
+C:\Users\Razer\Downloads\Solver\Solver\src\Server\bin\Release\Common.dll
+C:\Users\Razer\Downloads\Solver\Solver\src\Server\bin\Release\Newtonsoft.Json.dll
+C:\Users\Razer\Downloads\Solver\Solver\src\Server\bin\Release\Common.pdb
+C:\Users\Razer\Downloads\Solver\Solver\src\Server\bin\Release\Newtonsoft.Json.xml
+C:\Users\Razer\Downloads\Solver\Solver\src\Server\obj\Release\Server.csproj.AssemblyReference.cache
+C:\Users\Razer\Downloads\Solver\Solver\src\Server\obj\Release\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Razer\Downloads\Solver\Solver\src\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\Razer\Downloads\Solver\Solver\src\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\Razer\Downloads\Solver\Solver\src\Server\obj\Release\Server.exe
+C:\Users\Razer\Downloads\Solver\Solver\src\Server\obj\Release\Server.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Release\Server.exe.config
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Release\Server.exe
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Release\Server.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Release\Common.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Release\Common.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\obj\Release\Server.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\obj\Release\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\obj\Release\Server.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\obj\Release\Server.csproj.CopyComplete
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\obj\Release\Server.exe
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\src\Server\obj\Release\Server.pdb

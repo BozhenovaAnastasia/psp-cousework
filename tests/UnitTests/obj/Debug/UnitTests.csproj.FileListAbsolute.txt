@@ -1,0 +1,62 @@
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Client.exe
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Server.exe
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Common.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Client.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Client.exe.config
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Server.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Server.exe.config
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Common.pdb
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Admin\Desktop\Projects\Course Works\Solver\tests\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Client.exe
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Server.exe
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Common.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Client.pdb
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Client.exe.config
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Server.pdb
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Server.exe.config
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Common.pdb
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\Артем\Desktop\Solver\tests\UnitTests\obj\Debug\UnitTests.pdb
